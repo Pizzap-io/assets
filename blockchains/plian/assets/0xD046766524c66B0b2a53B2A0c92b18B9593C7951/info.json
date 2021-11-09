@@ -1,0 +1,10 @@
+{
+  "name": "PlianNft",
+  "description": "PlianNft (PNFT) is a currency verified separately for the nft trading platform.",
+  "explorer": "0xD046766524c66B0b2a53B2A0c92b18B9593C7951",
+  "type": "PRC20",
+  "symbol": "PNFT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xD046766524c66B0b2a53B2A0c92b18B9593C7951"
+}

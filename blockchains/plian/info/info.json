@@ -1,0 +1,37 @@
+{
+  "name": "Plian-subchain1test",
+  "website": "https://plian.org/",
+  "description": "Plian positions itself to bring near-instant blockchain transactions without sacrificing decentralisation or security to public and enterprise DeFi.",
+  "explorer": "https://testnet.plian.org/child_test",
+  "research": "https://pliangroup.gitbook.io/plian/",
+  "symbol": "PI",
+  "type": "coin",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/pchain-org/pchain"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/plian_org"
+    },
+    {
+      "name": "reddit",
+      "url": "https://www.reddit.com/user/pchain_org"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://plian.org/js/generic/web/viewer.html"
+    },
+    {
+      "name": "medium",
+      "url": "https://plian-org.medium.com/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pchain_org"
+    }
+  ]
+}
