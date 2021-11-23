@@ -21,8 +21,19 @@
       "address": "0xD046766524c66B0b2a53B2A0c92b18B9593C7951",
       "name": "PlianNft",
       "symbol": "PNFT",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://assets.trustwalletapp.com/blockchains/plian/assets/0xD046766524c66B0b2a53B2A0c92b18B9593C7951/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 8007736,
+      "asset": "c60_t0x10401b9A7E93E10aC92E7bB55Ae87433B9E01e08",
+      "type": "PRC20",
+      "address": "0x10401b9A7E93E10aC92E7bB55Ae87433B9E01e08",
+      "name": "PlianNft",
+      "symbol": "PNFT",
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/plian/assets/0x10401b9A7E93E10aC92E7bB55Ae87433B9E01e08/logo.png",
       "pairs": []
     }
   ],
