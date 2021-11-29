@@ -11,8 +11,7 @@
       "name": "Wrapped Plian",
       "symbol": "WPI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Pizzap-io/assets/master/blockchains/plian/assets/0x53BfFB4a3b388B8D8c6d6720B15426453A1e0602/logo.png",
-      "pairs": []
+      "logoURI": "https://raw.githubusercontent.com/Pizzap-io/assets/master/blockchains/plian/assets/0x53BfFB4a3b388B8D8c6d6720B15426453A1e0602/logo.png"
     },
     {
       "chainId": 10067275,
@@ -22,8 +21,7 @@
       "name": "PlianNft",
       "symbol": "PNFT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Pizzap-io/assets/master/blockchains/plian/assets/0xD046766524c66B0b2a53B2A0c92b18B9593C7951/logo.png",
-      "pairs": []
+      "logoURI": "https://raw.githubusercontent.com/Pizzap-io/assets/master/blockchains/plian/assets/0xD046766524c66B0b2a53B2A0c92b18B9593C7951/logo.png"
     },
     {
       "chainId": 8007736,
@@ -33,8 +31,7 @@
       "name": "PlianNft",
       "symbol": "PNFT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Pizzap-io/assets/master/blockchains/plian/assets/0x10401b9A7E93E10aC92E7bB55Ae87433B9E01e08/logo.png",
-      "pairs": []
+      "logoURI": "https://raw.githubusercontent.com/Pizzap-io/assets/master/blockchains/plian/assets/0x10401b9A7E93E10aC92E7bB55Ae87433B9E01e08/logo.png"
     }
   ],
   "version": {
