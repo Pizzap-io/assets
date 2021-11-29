@@ -1,6 +1,6 @@
 {
   "name": "Trust Wallet: Plian",
-  "logoURI": "https://assets.trustwalletapp.com/blockchains/plian/info.logo.png",
+  "logoURI": "https://raw.githubusercontent.com/Pizzap-io/assets/master/blockchains/plian/info/logo.png",
   "timestamp": "2021-06-17T12:27:54.729Z",
   "tokens": [
     {
@@ -11,7 +11,7 @@
       "name": "Wrapped Plian",
       "symbol": "WPI",
       "decimals": 18,
-      "logoURI": "https://assets.trustwalletapp.com/blockchains/plian/assets/0x53BfFB4a3b388B8D8c6d6720B15426453A1e0602/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/Pizzap-io/assets/master/blockchains/plian/assets/0x53BfFB4a3b388B8D8c6d6720B15426453A1e0602/logo.png",
       "pairs": []
     },
     {
@@ -22,7 +22,7 @@
       "name": "PlianNft",
       "symbol": "PNFT",
       "decimals": 18,
-      "logoURI": "https://assets.trustwalletapp.com/blockchains/plian/assets/0xD046766524c66B0b2a53B2A0c92b18B9593C7951/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/Pizzap-io/assets/master/blockchains/plian/assets/0xD046766524c66B0b2a53B2A0c92b18B9593C7951/logo.png",
       "pairs": []
     },
     {
@@ -33,7 +33,7 @@
       "name": "PlianNft",
       "symbol": "PNFT",
       "decimals": 18,
-      "logoURI": "https://assets.trustwalletapp.com/blockchains/plian/assets/0x10401b9A7E93E10aC92E7bB55Ae87433B9E01e08/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/Pizzap-io/assets/master/blockchains/plian/assets/0x10401b9A7E93E10aC92E7bB55Ae87433B9E01e08/logo.png",
       "pairs": []
     }
   ],
