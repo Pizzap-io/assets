@@ -1,17 +1,17 @@
 {
   "name": "Trust Wallet: Plian",
-  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "logoURI": "https://assets.trustwalletapp.com/blockchains/plian/info.logo.png",
   "timestamp": "2021-06-17T12:27:54.729Z",
   "tokens": [
     {
       "chainId": 10067275,
-      "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "asset": "c60_t0x53BfFB4a3b388B8D8c6d6720B15426453A1e0602",
       "type": "PRC20",
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "address": "0x53BfFB4a3b388B8D8c6d6720B15426453A1e0602",
       "name": "Wrapped Plian",
-      "symbol": "PI",
+      "symbol": "WPI",
       "decimals": 18,
-      "logoURI": "https://assets.trustwalletapp.com/blockchains/plian/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/plian/assets/0x53BfFB4a3b388B8D8c6d6720B15426453A1e0602/logo.png",
       "pairs": []
     },
     {

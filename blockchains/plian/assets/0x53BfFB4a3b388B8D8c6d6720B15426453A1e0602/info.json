@@ -1,0 +1,10 @@
+{
+  "name": "Wrapped WETH",
+  "description": "Wrapped WETH",
+  "explorer": "0x53BfFB4a3b388B8D8c6d6720B15426453A1e0602",
+  "type": "ERC20",
+  "symbol": "WPI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x53BfFB4a3b388B8D8c6d6720B15426453A1e0602"
+}
