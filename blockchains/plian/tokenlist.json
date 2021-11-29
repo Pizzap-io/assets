@@ -6,7 +6,7 @@
     {
       "chainId": 10067275,
       "address": "0x53BfFB4a3b388B8D8c6d6720B15426453A1e0602",
-      "name": "Wrapped Plian",
+      "name": "PlianWETH",
       "symbol": "WPI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Pizzap-io/assets/master/blockchains/plian/assets/0x53BfFB4a3b388B8D8c6d6720B15426453A1e0602/logo.png"
